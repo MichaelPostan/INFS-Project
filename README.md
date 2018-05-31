@@ -1,4 +1,4 @@
-# hello-world
-My first repository
+INFS-Project
 
-Just starting my journey into IT
+Use the SQL file to generate the schema in MySQL
+The .php file generates the user interface used to interact with the database
